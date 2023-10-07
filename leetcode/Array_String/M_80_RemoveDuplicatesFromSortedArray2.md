@@ -1,5 +1,7 @@
 
-keep an index variable that points to the position where <mark>the next unique element should be placed</mark>.
+Note: keep an index variable that points to the position where <mark>the next unique element should be placed</mark>.
+
+Time Complexity: O(N)
 
 ```java
 Java:
@@ -20,7 +22,7 @@ public int removeDuplicates(int[] nums) {
     return index;
 }
 
-Python3:
+Py:
 
 def removeDuplicates(self, nums: List[int]) -> int:
     if len(nums) <= 2 :
