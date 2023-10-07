@@ -1,4 +1,4 @@
-Note: Sort, then Group
+Hint: Sort, then Group
 
 Time Complexity: O(n * m * log(m))
 

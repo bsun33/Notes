@@ -1,5 +1,5 @@
 
-Note: keep an index variable that points to the position where <mark>the next unique element should be placed</mark>.
+Hint: keep an index variable that points to the position where <mark>the next unique element should be placed</mark>.
 
 Time Complexity: O(N)
 
